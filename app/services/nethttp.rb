@@ -53,6 +53,8 @@ class GoogleTranslateService
   end
 end
 
+## terminal command
+# ruby app/services/nethttp.rb
 
 ## resources
 ## https://rubyapi.org/3.2/o/net/http
